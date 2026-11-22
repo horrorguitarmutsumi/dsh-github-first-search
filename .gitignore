@@ -1,0 +1,5 @@
+node_modules/
+lib/
+engine/target/
+*.tgz
+.DS_Store
